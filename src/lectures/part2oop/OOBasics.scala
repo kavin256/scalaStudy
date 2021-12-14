@@ -5,7 +5,6 @@ package lectures.part2oop
  * @Date: 2021-12-13
  */
 object OOBasics extends App {
-
   val person = new Person ("John", 25)
   println(person.x)
 }

@@ -8,6 +8,7 @@ object OOBasics extends App {
   val person = new Person ("John", 25)
   println(person.x)
 }
+
 // constructor
 class Person (name: String, val age: Int) {
   //body
